@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MenuSearchView</string>
+    <string-array name="arrmonhoc">
+        <item> Toán Học </item>
+        <item> Vật Lý </item>
+        <item> Hóa Học </item>
+        <item> Ngữ Văn </item>
+        <item> Sinh Học </item>
+        <item> Tiếng Anh </item>
+        <item> Lịch Sử </item>
+        <item> Khoa Học </item>
+    </string-array>
+</resources>
